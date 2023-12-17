@@ -1,0 +1,2 @@
+This is just a test. But it looks like I am using Git finally.
+Yes, I think I understand Git.
